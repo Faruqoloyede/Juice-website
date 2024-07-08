@@ -6,7 +6,7 @@
 @tailwind utilities;
 
 body {
-  background: url(./assets/BG.png);
+  background: url(./assets/bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
