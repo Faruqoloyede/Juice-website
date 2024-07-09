@@ -11,3 +11,13 @@ body {
   background-position: center;
   background-size: cover;
 }
+
+.img img {
+  background: linear-gradient(#FFE2C8, #FEBA44);
+  border-radius: 10px;
+  box-shadow: 0px 1px 1px 0px #5946318A;
+}
+
+/* .img img:nth-child(2) {
+  margin-top: 20%;
+} */
