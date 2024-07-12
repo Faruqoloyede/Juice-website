@@ -31,3 +31,12 @@ body {
 .img div:nth-child(2) {
   margin-top: 25%;
 }
+
+.menu-item {
+  background: linear-gradient(#FFF1E0A6, #FF9B25C9);
+}
+
+.menu-upper {
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 5px;
+}

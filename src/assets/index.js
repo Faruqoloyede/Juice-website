@@ -6,6 +6,7 @@ import Orange from "./Orange.png";
 import Pineapple from "./Pineapple.png";
 import berry from "./berry.png";
 import watermelon from "./watermelon.png";
+import Vector from "./Vector.png"
 
 
 export {
@@ -16,5 +17,6 @@ export {
     Orange,
     Pineapple,
     berry,
-    watermelon
+    watermelon,
+    Vector
 }
