@@ -24,7 +24,7 @@ const Menu = () => {
             </div>
             ))}
         </div>
-        <p className='flex items-center sm:justify-end justify-center mt-5'>View All<FaArrowRightLong className='ml-3' /> </p>
+        <p className='flex items-center sm:justify-end justify-center mt-5 text-brown'>View All<FaArrowRightLong className='ml-3' /> </p>
     </div>
   )
 }

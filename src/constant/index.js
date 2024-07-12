@@ -59,3 +59,26 @@ export const menu = [
         price: 10
     },
 ]
+
+export const site = [
+    {
+        id: "home",
+        link: "- Home"
+    },
+    {
+        id: "about",
+        link: "- About Us"
+    },
+    {
+        id: "service",
+        link: "- Services"
+    }, 
+    {
+        id: "blog",
+        link: "- Blog"
+    },
+    {
+        id: "contact",
+        link: "- Contact Us"
+    }
+]
