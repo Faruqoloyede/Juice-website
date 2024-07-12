@@ -5,7 +5,7 @@ import Links from './Links'
 
 const Footer = () => {
   return (
-    <div className='flex flex-wrap items-center justify-between gap-10'>
+    <div className='flex flex-wrap justify-between'>
         <Contact />
         <Site />
         <Links />
