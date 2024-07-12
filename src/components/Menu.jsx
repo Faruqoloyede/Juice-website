@@ -19,7 +19,7 @@ const Menu = () => {
                 <div className='flex flex-col items-start'>
                     <h4 className='text-2xl text-brown font-medium font-quicksand'>{item.title}</h4>
                     <p className='text-[#555555] text-[14px] font-quicksand mb-6'>{item.description}</p>
-                    <p className='text-[14px] font-normal font-quicksand font-bold'><span className='text-[red]'>{item.tag}</span>{`${item.price}.00`}</p>
+                    <p className='text-[14px] font-quicksand font-bold'><span className='text-[red]'>{item.tag}</span>{`${item.price}.00`}</p>
                 </div>
             </div>
             ))}
