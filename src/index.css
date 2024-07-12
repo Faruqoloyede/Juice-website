@@ -40,3 +40,9 @@ body {
   border-bottom-left-radius: 30px;
   border-top-right-radius: 5px;
 }
+
+@media (max-width: 680px) {
+  .img div:nth-child(2) {
+    margin-top: 0;
+  }
+}
