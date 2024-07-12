@@ -2,6 +2,7 @@ import React from 'react'
 import { styles } from '../style'
 import { mango, Vector } from '../assets'
 import { menu } from '../constant'
+import { FaArrowRightLong } from "react-icons/fa6";
 
 
 const Menu = () => {
@@ -22,8 +23,8 @@ const Menu = () => {
                 </div>
             </div>
             ))}
-            
         </div>
+        <p className='flex items-center sm:justify-end justify-center mt-5'>View All<FaArrowRightLong className='ml-3' /> </p>
     </div>
   )
 }
